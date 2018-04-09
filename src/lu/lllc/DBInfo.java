@@ -1,15 +1,15 @@
 package lu.lllc;
 
 public class DBInfo {
-	static String host = "jws-app-mysql"; // In most cases you will use
-													// localhost
+	static String host = "jws-app-mysql"; // The standard name in Tomcat+ MySQL on openshift
+
 	static String DBname = "lllc";
 	static int port = 3306; // This is for MySQL
 	static String mySQLdbURL = "jdbc:mysql://" + host + ":" + port + "/"
 			+ DBname;
 
-	static String user = "root";
-	static String password = "root";
+	static String user = "user";
+	static String password = "password";
 	
 	static String driver = "com.mysql.jdbc.Driver";
 
