@@ -34,3 +34,13 @@ and the
 when configuring 
 
 `JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)`
+
+The database name is `lllc`
+
+The SQL file you can find in
+
+`SQL/lllc.sql`
+
+You can use PhpMyAdmin from
+
+https://github.com/tomek-servlets/PhpMyAdminFor-jws-app-mysql
