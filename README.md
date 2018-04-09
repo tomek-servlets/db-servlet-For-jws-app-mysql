@@ -10,27 +10,27 @@ We create here manualy the database connection.
 
 See the settings in 
 
-src/lu/lllc/DBInfo.java
+`src/lu/lllc/DBInfo.java`
 
 We do not use the root user beacuse it is not well configured. We use:
 
-user = "user";
+`user = "user";`
 
-password = "password";
+`password = "password";`
 
 
 They must be created during the instalation of 
 
-JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)
+`JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)`
 
 Remember also to leave empty the 
 
-Git Reference
+`Git Reference`
 
 and the 
 
-Context Directory
+`Context Directory`
 
 when configuring 
 
-JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)
+`JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)`
