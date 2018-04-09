@@ -1,6 +1,6 @@
 # db-servletFor-jws-app-mysql
 
-An example of an simple application working with the 
+An example of a simple application working with the 
 
 `JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)`
 
