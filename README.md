@@ -2,7 +2,7 @@
 
 An example of an simple application working with the 
 
-> JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)
+`JBoss Web Server 3.1 Apache Tomcat 8 + MySQL (with https)`
 
 on OpenShift.
 
