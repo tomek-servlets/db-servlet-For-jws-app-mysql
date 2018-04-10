@@ -1,4 +1,4 @@
-# db-servletFor-jws-app-mysql
+# db-servlet-For-jws-app-mysql
 
 An example of a simple application working with the 
 
